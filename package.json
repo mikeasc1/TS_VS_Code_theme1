@@ -1,0 +1,21 @@
+{
+    "name": "teksavvythemeone",
+    "displayName": "TekSavvyThemeOne",
+    "description": "This theme is the default theme for new employees at Tek Savvy",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TS drip theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TS drip theme-color-theme.json"
+            }
+        ]
+    }
+}
